@@ -12,6 +12,9 @@ year = {2024},
 issn = {0143-8166},
 }
 ```
+## Framework
+![image](https://github.com/Haojie-Tang/MPCFusion/blob/main/Figure/Framework.png)
+Overview of the proposed MPCFusion method.
 
 ## Recommended Environment
 
@@ -27,6 +30,8 @@ Please modify the dataset path in the train_mpcfusion.json file, and then run th
 ## To Test
 
     python test_mpcfusion.py
+
+
 
 ## Acknowledgement
 The codes are heavily based on SwinFusion. Please also follow their licenses. Thanks for their awesome works.
