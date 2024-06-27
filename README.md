@@ -9,7 +9,7 @@ journal = {Optics and Lasers in Engineering},
 volume = {176},
 pages = {108094},
 year = {2024},
-issn = {0143-8166},
+issn = {0143-8166}
 }
 ```
 ## Framework
